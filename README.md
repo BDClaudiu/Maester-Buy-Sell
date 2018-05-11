@@ -1,7 +1,10 @@
 # Maester-Buy-Sell
 
-Yahoo stocks buy/sell stand-alone recommander application
-Build Using Java, JavaFX, Scene Builder
+Buy/sell stand-alone stock recommender application
 
-See design document for details and screen-shots
+Selecting from the DOW 30 stocks, the softweare offers buy and sell recomandations to the user by displaying a graph
+
+Tools Used: Java, JavaFX, Scene Builder.
+
+See design document for details and screen-shots.
 
