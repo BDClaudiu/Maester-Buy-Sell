@@ -6,5 +6,5 @@ Selecting from the DOW 30 stocks, the softweare offers buy and sell recomandatio
 
 Tools Used: Java, JavaFX, Scene Builder.
 
-See design document for details and screen-shots.
+See design document for details and screen-shots (at the end of the document)
 
